@@ -14,8 +14,8 @@
 
 
 
-<br />
-
+<br>
+<br>
 hi, i'm [Aarush Chandna](https://github.com/Cyrush25), a passionate front-end web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also a cyber security enthusiast. i learned a lot from the cyberspace community and i love how collaboration and knowledge sharing happened through the community.
