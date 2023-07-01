@@ -36,18 +36,7 @@ i am also a cyber security enthusiast. i learned a lot from the cyberspace commu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-jQuery       11 hrs 2 mins   ███████████████████▓░░░░░   75.10 %
-Python       58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-JavaScript   41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Html, CSS    18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-```
-
-<!--END_SECTION:waka-->
+<br>
 
 
 📈 my github stats
