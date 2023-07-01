@@ -9,10 +9,10 @@
   <img align="left" alt="Aarush Chandna | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aarush-chandna-136580217/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Aarush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrush25&label=Profile%20views&color=0e75b6&style=flat" alt="cyrush25" /> </p>
 
 <br>
 <br>
